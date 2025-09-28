@@ -57,7 +57,6 @@ Build a small web UI for interactive queries.
 
 👩‍💻 Author
 Amyuktha Gummadi
+LinkedIn - https://www.linkedin.com/in/amyuktha-gummadi/
 
-LinkedIn
 
-GitHub
